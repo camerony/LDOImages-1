@@ -8,6 +8,9 @@
    version="1.1"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xml:space="preserve"
+   inkscape:export-filename="voron_v0_manual.png"
+   inkscape:export-xdpi="651.31018"
+   inkscape:export-ydpi="651.31018"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,7 +39,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="2560"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:document-units="px"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -1461,9 +1464,9 @@ Om1vZGVsAHNSR0JbYElDAAAAAElFTkSuQmCC
            id="path23654" /></g></g></g><metadata
      id="metadata4117"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" /><dc:publisher><cc:Agent
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
              rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:date>2011-04-28T06:27:46</dc:date><dc:description>Read service manual is mandatory sign</dc:description><dc:source>https://openclipart.org/detail/134443/read-service-manual-by-pulpy</dc:source><dc:creator><cc:Agent><dc:title>Pulpy</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>mandatory</rdf:li><rdf:li>manual</rdf:li><rdf:li>service</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
